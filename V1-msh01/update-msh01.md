@@ -6,7 +6,9 @@
 - Arduino IDE (programing)
 - wokwi (simulation wiring)
 - Web Arduino (reference)
+
 ---
+
 ## Hardware used :
 - Kabel jumper 14x
 - USB to TTL
@@ -15,16 +17,19 @@
 - Sensor DHT11
 - LED
 - Buzzer
----
 - Project Board
+
+---
+
 ## version : v.msh01.01
 - New :
 > Skema wiring 
-
-![alt text]({4147AA93-E651-4F01-B5D8-DE519F2F9CCB}.png)
+    - https://wokwi.com/projects/439972048605059073
 
 > loading sebelum monitoring
+
 > Led-> Alarm
+
 > buzzer -. alarm
 
 - note :

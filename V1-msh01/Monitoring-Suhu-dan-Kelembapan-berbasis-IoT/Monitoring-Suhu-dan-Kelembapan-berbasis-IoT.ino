@@ -101,7 +101,7 @@ void loop() {
     digitalWrite(LED_PIN, LOW);
   }
 
-  delay(500); // update tiap 1 detik
+  delay(1000); // update tiap setangah 1 detik
 }
 
 // Fungsi kedip LED

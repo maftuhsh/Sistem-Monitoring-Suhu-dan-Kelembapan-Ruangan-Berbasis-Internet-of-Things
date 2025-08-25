@@ -9,7 +9,7 @@ Repo ini adalah project aku tentang **monitoring suhu dan kelembapan Ruangan**, 
 ### 📚 Apa Isi Repo Ini?
 
 - ✅ Sistem Monitoring Suhu Display OLED
-- ✅ [soon] Monitoring Via Bot Telegram (With API)
+- ✅ Monitoring Via Bot Telegram (With API)
 - ✅ [soon] Monitoring Via Website
 
 ---
@@ -18,7 +18,8 @@ Repo ini adalah project aku tentang **monitoring suhu dan kelembapan Ruangan**, 
 
 - V1-msh01 -> Sistem Monitoring Suhu dan kelembapan Ruangan Display to LCD OLED (dht11)
     - Update.logs : https://github.com/maftuhsh/Sistem-Monitoring-Suhu-dan-Kelembapan-Ruangan-Berbasis-Internet-of-Things/blob/master/V1-msh01/update-msh01.md
-
+- V2-msh02 -> Sistem Monitoring Suhu dan kelembapan Ruangan Via Telegram
+    - update.logs : https://github.com/maftuhsh/Sistem-Monitoring-Suhu-dan-Kelembapan-Ruangan-Berbasis-Internet-of-Things/blob/master/V2-msh02/update-msh02.md
 ---
 
 ### 📌 Yuk, Ikuti Perjalananku!
